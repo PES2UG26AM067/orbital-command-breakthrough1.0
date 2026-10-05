@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Cosmic Grid",
+  "description": "Space debris radar and collision surveillance platform for tracking fragmentation clouds, derelict rocket stages, conjunction close passes, and astrodynamic avoidance maneuvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
